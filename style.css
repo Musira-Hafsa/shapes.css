@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hemisphere{
+    border: 5px solid greenyellow;
+    text-align: center;
+   border-radius: 150px 150px 0px 0px;
+   height: 150px;
+   width: 320px;
+}
+.rectangle{
+    border: 5px solid hotpink;
+    text-align: center;
+   border-radius: 30px 30px 30px 30px;
+   height: 150px;
+   width: 320px;
+}
+.bullet{
+    border: 5px solid blue;
+    text-align: center;
+   border-radius: 30px 100px 100px 30px;
+   height: 150px;
+   width: 320px;
+}
+.leaf{
+    border: 5px solid teal;
+    text-align: center;
+   border-radius: 0px 160px 0px 160px;
+   height: 150px;
+   width: 320px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
